@@ -1,7 +1,7 @@
-# Alura-ImersaoDev-7
+# Alura ImersaoDev 7
 Minha Primeira ImersãoDev, onde pela primeira vez tive a oportunidade de programar em Java Script durante a semana 13 a 17 de novembro de 2023.
 
-Aula 1
+## 📓 Aula 1
 Nos concentraremos nas ferramentas essenciais de qualquer linguagem de programação, incluindo o uso de variáveis, operadores, arredondamento de números e interação com o console.
 Criamos uma conta no CodePen;
 Compreender as diferenças entre HTML, CSS e JavaScript;
@@ -9,11 +9,10 @@ Explorar o uso de variáveis, manipulação de valores e a memória do computado
 Aprender sobre tipos de variáveis, como texto e números inteiros;
 Fixar a quantidade de casas decimais com a função toFixed().
 
-Projetos
 CONVERSOR DE MOEDAS: O projeto efetua a cotação da libra esterlina para o real de acordo com valor do usuário.
 https://codepen.io/BrenoDx/pen/mdvBJpr
 
-CONVERSOR DE CRIPTOMOEDAS: O projeto efetua a cotação do Peso Argetino (valor expecificado) para uma criptomoeda.
+CONVERSOR DE CRIPTOMOEDAS: O projeto efetua a cotação do Peso Argentino (valor expecificado) para uma criptomoeda.
 https://codepen.io/BrenoDx/pen/rNPzzOw
 
 CONVERSOR DE TEMPERATURA: O projeto faz o valor em celcius que usuário vai inseri para as temperaturas fahrenheit e kelvin.
@@ -24,7 +23,7 @@ https://codepen.io/BrenoDx/pen/MWLvQQZ
 
 
 
-Aula 2
+## 📓 Aula 2
 Na segunda aula da Imersão Dev, criamos um jogo de adivinhação. Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é adivinhar esse número.
 Realizar o fork do projeto com o template inicial;
 Realizar testes interativos usando prompt;
@@ -36,7 +35,7 @@ Jogo da adivinhação: O usuário tem que acerta o número misterioso de 0 a 100
 https://codepen.io/BrenoDx/pen/dyaVRxd
 
 
-Aula 3 
+## 📓 Aula 3 
 Nesta aula, exploramos estruturas de dados e como trabalhar com listas. Abordaremos os seguintes tópicos:
 Criação de uma primeira array de filmes usando a sintaxe [];
 Uso do método filmes.push("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);
@@ -50,7 +49,7 @@ Catálogo de filmes: interface de filmes que coloquei de exemplo (DC comics).
 https://codepen.io/BrenoDx/pen/NWoaoag
 
 
-Aula 4
+## 📓 Aula 4
 No nosso projeto AluraFlix, utilizaremos o input para permitir a entrada de dados diretamente na tela, evitando a necessidade de inserir informações diretamente no código ou no console. Nesta aula, abordaremos os seguintes tópicos:
 Sintaxe e criação de funções no JavaScript;
 Integração de funções criadas no JavaScript com o HTML exibido na tela;
@@ -64,7 +63,7 @@ Catálogo de filmes 2: interface que usuário consegue adicionar poster dos film
 https://codepen.io/BrenoDx/pen/ExrozoE
 
 
-Aula 05
+## 📓 Aula 05
 Nesta aula da Imersão Dev, mergulhamos no mundo da programação e aprendemos a criar uma tabela de classificação.
 Remover o código estático do HTML;
 Criar um objeto no JavaScript para cada jogador;
@@ -74,3 +73,9 @@ Criar uma função para adicionar vitórias, outra para adicionar empates e uma 
 
 Tabela de classificação: interface que usuário possa interagir com opções (Win, Kills, Assist) que cada é uma pontuação diferente.
 https://codepen.io/BrenoDx/pen/WNPMeZw
+
+## 💻 Tecnologias/Ferramentas utilizadas
+- CodePen
+- HTML
+- CSS
+- JavaScrpit
